@@ -4,7 +4,7 @@ using namespace std;
 int main()
  {
 	//code
-	int t;
+	int t;//test cases
 	cin>>t;
 	int ans=0;
 
