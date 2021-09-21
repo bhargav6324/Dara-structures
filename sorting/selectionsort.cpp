@@ -3,7 +3,7 @@ using namespace std;
 
 selectionsort(int a[],int n)
 {
-    int i,j,k;
+    int i=0,j=0,k;
     for(i=0;i<n;i++)
     {
         for(j=k=i;j<n;j++)
